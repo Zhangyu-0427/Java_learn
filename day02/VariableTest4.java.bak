@@ -1,0 +1,12 @@
+/*
+
+*/
+class VariableTest4 
+{
+	public static void main(String[] args) 
+	{
+		// 1. ±àÂëÇé¿ö
+		long l1 = 1223;
+		System.out.println(l1);
+	}
+}
